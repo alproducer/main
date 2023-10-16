@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    display: flex;
+    justify-content:center;
+}
